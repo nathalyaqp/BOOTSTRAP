@@ -1,7 +1,7 @@
 /* Inserta tu código aqui */
-/*{
+*{
 	border:1px solid rgba(255, 5, 250, .5);
-}*/
+}
 li {
 	list-style:  none;
 }
@@ -15,7 +15,7 @@ div>div{
 	margin-right: 20px;
 	margin-top: 30px;
 }
- div h4{
+ .col-md-5> ul>li>h4{
 	background: #6e6e6e;	
 	color:#ddd;
 	padding: 5px;
@@ -45,4 +45,30 @@ margin: 30px;
 }
 .glyphicon{
 	padding-left: 15px;
+	margin: 10px;
+}
+.titulo{
+	font-size: 18px;
+}
+.list-group-item{
+	border-right: none;
+	border-left: none;
+}
+ul{
+	margin-top: 20px;
+}
+img{
+	max-width: 100%;
+	background: #ccc;
+	height: 200px;
+}
+.barra{
+	max-width: 100%;
+	height: 2px;
+	background: #fff;
+}
+
+footer ul li{
+	font-weight: 800;
+	display: block;	
 }
