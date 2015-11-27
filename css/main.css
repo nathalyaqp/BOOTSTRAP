@@ -1,0 +1,48 @@
+/* Inserta tu código aqui */
+/*{
+	border:1px solid rgba(255, 5, 250, .5);
+}*/
+li {
+	list-style:  none;
+}
+
+div h2{
+	display: inline-block;
+padding-left: 10px;
+}
+div>div{
+	margin-left: 50px;
+	margin-right: 20px;
+	margin-top: 30px;
+}
+ div h4{
+	background: #6e6e6e;	
+	color:#ddd;
+	padding: 5px;
+	width: 170px;
+margin-bottom: 30px;
+}
+.main-container{
+	margin: auto;
+	max-width: 100%
+}
+.cont{
+	margin: auto;
+	max-width: 100%;
+}
+.col-md-5{
+	max-width: 100%;
+	margin-left: 10;
+
+}
+p{
+	color:#aaa;
+}
+	
+}
+div h6{
+margin: 30px;
+}
+.glyphicon{
+	padding-left: 15px;
+}
